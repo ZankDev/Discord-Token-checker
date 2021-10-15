@@ -11,6 +11,8 @@ git clone https://github.com/TusTusDev/Discord-Token-checker
 
 pip install -r requirements.txt
 
+or run setup.bat
+
 Dont forget to add tokens to tokens.txt file
 
 
