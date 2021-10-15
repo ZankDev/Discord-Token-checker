@@ -8,7 +8,9 @@ Fast discord token checker with high cpm
 # Download
 
 git clone https://github.com/TusTusDev/Discord-Token-checker
-pip install -r requirements .txt
+
+pip install -r requirements.txt
+
 Dont forget to add tokens to tokens.txt file
 
 
